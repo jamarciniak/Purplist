@@ -5,8 +5,8 @@ import { Register } from './components/credentials/Register'
 function App() {
   return (
     <>
-      {/* <Login /> */}
-      <Register />
+      <Login />
+      {/* <Register /> */}
     </>
   )
 }
